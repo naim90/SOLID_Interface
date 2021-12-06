@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Interface_SOLID\bin\Debug\net5.0\Interface_SOLID.exe
+C:\Users\Admin\source\repos\Interface_SOLID\bin\Debug\net5.0\Interface_SOLID.deps.json
+C:\Users\Admin\source\repos\Interface_SOLID\bin\Debug\net5.0\Interface_SOLID.runtimeconfig.json
+C:\Users\Admin\source\repos\Interface_SOLID\bin\Debug\net5.0\Interface_SOLID.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Interface_SOLID\bin\Debug\net5.0\Interface_SOLID.dll
+C:\Users\Admin\source\repos\Interface_SOLID\bin\Debug\net5.0\ref\Interface_SOLID.dll
+C:\Users\Admin\source\repos\Interface_SOLID\bin\Debug\net5.0\Interface_SOLID.pdb
+C:\Users\Admin\source\repos\Interface_SOLID\obj\Debug\net5.0\Interface_SOLID.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Interface_SOLID\obj\Debug\net5.0\Interface_SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Interface_SOLID\obj\Debug\net5.0\Interface_SOLID.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Interface_SOLID\obj\Debug\net5.0\Interface_SOLID.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Interface_SOLID\obj\Debug\net5.0\Interface_SOLID.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Interface_SOLID\obj\Debug\net5.0\Interface_SOLID.dll
+C:\Users\Admin\source\repos\Interface_SOLID\obj\Debug\net5.0\ref\Interface_SOLID.dll
+C:\Users\Admin\source\repos\Interface_SOLID\obj\Debug\net5.0\Interface_SOLID.pdb
+C:\Users\Admin\source\repos\Interface_SOLID\obj\Debug\net5.0\Interface_SOLID.genruntimeconfig.cache
